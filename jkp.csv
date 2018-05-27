@@ -1,0 +1,4 @@
+Attacker,Rock,Paper,Scissors
+Rock,draw,lose,win
+Paper,win,draw,lose
+Scissors,lose,win,draw
